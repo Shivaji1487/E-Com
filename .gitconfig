@@ -1,2 +1,2 @@
 [alias]
-	st = status
+	st = git status
